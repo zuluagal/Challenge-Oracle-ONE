@@ -11,7 +11,7 @@
 #### Sigue las lecciones y las instrucciones de contenido 📚
 #### Visita la página del Desafío ¡Haciendo clic aquí! 📃
 
-### Analisando el repositorio!
+### Analizando el repositorio!
 ---
 ### Este es el repositorio base de nuestro proyecto, acá tendrás:
 #### 🔹index.html: Documento HTML concluído que puedes utilizar en tu proyecto. Las fuentes, los archivos CSS y Javascript ya están referenciados en el documento y todas las secciones contienen comentários que te ayudan a entender la estructura. Si quieres, puedes aventurarte y contruir tu propio HTML.
